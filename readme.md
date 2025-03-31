@@ -61,15 +61,14 @@ This project provides a simple, containerized application for generating QR code
 
     The QR code will be saved in the `output` directory in your current working directory. If you ran the default command, the image will be called `github_qr.png`.
 
-    ```markdown
     ![Generated QR Code](output/github_qr.png)
 
-    ```
-5.  **Log generation screenshot :**
-    The logs will be stored in logs/info.log and docker logs
-    ```markdown
-    ![log screenshot](log.png)
-    ```
+5.  **Log generation screenshot:**
+
+    The logs will be stored in `logs/info.log` and Docker logs.
+
+    ![Log Screenshot](log.png)
+
 
 ## Project Structure
 
