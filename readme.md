@@ -63,8 +63,13 @@ This project provides a simple, containerized application for generating QR code
 
     ```markdown
     ![Generated QR Code](output/github_qr.png)
-    ```
 
+    ```
+5.  **Log generation screenshot :**
+    The logs will be stored in logs/info.log and docker logs
+    ```markdown
+    ![log screenshot](log.png)
+    ```
 
 ## Project Structure
 
